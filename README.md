@@ -70,4 +70,4 @@ https://xiaoxinbao.com/
 
 加我微信，拉你进群。
 
-<img src="https://xiaoxinbao-ad.oss-cn-beijing.aliyuncs.com/5131721026359_.pic.jpg" alt="微信二维码" width="240" height="240" />
+<img src="https://xiaoxinbao-ad.oss-cn-beijing.aliyuncs.com/5131721026359_.pic.jpg" alt="微信二维码" width="240" height="210" />
