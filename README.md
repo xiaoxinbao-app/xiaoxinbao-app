@@ -1,4 +1,4 @@
-# Reqable
+# 校信宝
 
 ⚠️ **注意：校信宝是非开源项目，本仓库仅用来管理需求和用户反馈。**
 
@@ -14,7 +14,7 @@
 
 校信宝大数据采集录取分数、位次、招生计划、就业数据，并深度整合，一个工具顶多个志愿规划师。校信宝基于Flutter和C++开发，相比同类产品具有极大的成本优势。
 
-![](./arts//benchmark_zh_01.png)
+![](./arts//aso100.jpg)
 
 *以上数据是在MacBook Pro 2017设备上测试，启动时间是通过录屏后计算帧差得出，内存使用为应用启动后直接置于后台再计算得出。*
 
@@ -51,11 +51,7 @@
 
 ### Mac安装
 
-在Mac设备上，校信宝提供了Apple芯片和Intel芯片两种架构的安装包。如果下载DMG文件，打开后拖拽进`应用程序`文件夹即可；如果是使用`Homebrew`，输入下面命令行即可自动安装：
-```shell
-brew install reqable
-```
-
+在Mac设备上，校信宝提供了Apple芯片和Intel芯片两种架构的安装包。您可以在AppStore 直接搜索【校信宝】下载并安装 
 ## 移动端支持
 
 校信宝移动端支持单独使用，也支持与桌面端协同使用。
@@ -74,4 +70,4 @@ https://xiaoxinbao.com/
 
 加我微信，拉你进群。
 
-<img src="https://reqable.com/zh-CN/img/wechat_qrcode.jpg" alt="微信二维码" width="240" height="240" />
+<img src="https://xiaoxinbao-ad.oss-cn-beijing.aliyuncs.com/5131721026359_.pic.jpg" alt="微信二维码" width="240" height="240" />
